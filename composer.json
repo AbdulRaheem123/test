@@ -1,5 +1,5 @@
 {
-    "name": "rbt/yii2-ffmpeg",
+    "name": "rbt2/yii2-ffmpeg",
     "description": "FFMPEG",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","ffmpeg",""],
