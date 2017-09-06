@@ -1,0 +1,21 @@
+{
+    "name": "rbt/yii2-ffmpeg",
+    "description": "FFMPEG",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","ffmpeg",""],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "sai",
+            "email": "ki@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "rbt\\ffmpeg\\": ""
+        }
+    }
+}
