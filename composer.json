@@ -4,15 +4,13 @@
     "type": "yii2-extension",
     "keywords": ["yii2","extension","ffmpeg",""],
     "license": "BSD-3-Clause",
+     "minimum-stability": "dev",
     "authors": [
         {
             "name": "sai",
             "email": "ki@gmail.com"
         }
     ],
-    "require": {
-        "yiisoft/yii2": "*"
-    },
     "autoload": {
         "psr-4": {
             "rbt\\ffmpeg\\": ""
